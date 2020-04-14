@@ -20,7 +20,8 @@ May be this project helps a bit to find new issues and new solutions for the res
 - [Node OPC-UA](http://node-opcua.github.io/)
 - [Eclipse Milo](https://projects.eclipse.org/projects/iot.milo)
 - [Free OPC-UA](https://github.com/FreeOpcUa)
-- 
+- [ASNeG OPC-UA stack](https://github.com/ASNeG/OpcUaStack)
+- [Open 62541](https://open62541.org/)
 
 ## Further references
 
