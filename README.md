@@ -17,14 +17,12 @@ May be this project helps a bit to find new issues and new solutions for the res
 
 ## OPC-UA Frameworks and libraries
 
+- [List of OPC-UA implementations](https://github.com/open62541/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations)
 - [Node OPC-UA](http://node-opcua.github.io/)
-- [Eclipse Milo](https://projects.eclipse.org/projects/iot.milo)
-- [Free OPC-UA](https://github.com/FreeOpcUa)
-- [ASNeG OPC-UA stack](https://github.com/ASNeG/OpcUaStack)
 - [Open 62541](https://open62541.org/)
+- [Eclipse Milo](https://projects.eclipse.org/projects/iot.milo)
 
 ## Further references
 
 - [OPC-UA](https://www.unified-automation.com/)
 - [Troubleshooting OPC-UA](https://documentation.unified-automation.com/uasdkhp/1.0.0/html/_l1_trouble.html)
-
